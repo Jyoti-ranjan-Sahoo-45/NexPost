@@ -48,7 +48,7 @@ NexPost follows Clean Architecture principles with clear separation of concerns:
 
 ```
 ┌─────────────────────────────────────────┐
-│               Presentation Layer         │
+│               Presentation Layer        │
 │  ┌─────────────┐  ┌─────────────────┐   │
 │  │   Screens   │  │     Widgets     │   │
 │  └─────────────┘  └─────────────────┘   │
@@ -299,8 +299,10 @@ flutter build ios --release
 
 **Web:**
 ```bash
-flutter build web --release
+flutter build web --releases
 ```
+
+
 
 ## 🎯 Key Features Explained
 
