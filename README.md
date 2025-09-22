@@ -508,10 +508,5 @@ dart run build_runner build --delete-conflicting-outputs
 
 This project is created for interview purposes. All rights reserved.
 
-## 📞 Support
-
-For questions or support, please reach out to the development team.
-
----
 
 **Built with ❤️ using Flutter**
